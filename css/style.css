@@ -8,6 +8,13 @@
     background-size: 20%;
 }
 
+.logo {
+    background-image: url(../img/logo.svg);
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 0px;
+}
 
 /* main */
 .thead {
