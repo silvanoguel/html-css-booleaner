@@ -1,15 +1,12 @@
 
 /* header */
-
-.header-img {
-    background-color: lightblue;
+.main-header {
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-color: skyblue;
     background-repeat: repeat;
+    background-size: 20%;
 }
-
-header {
-    background-repeat: repeat;
-}
-
 
 
 /* main */
@@ -19,4 +16,14 @@ header {
 
 .table-background {
     background-color: aqua;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+
+/* footer */
+h4{
+    color: grey;
 }
